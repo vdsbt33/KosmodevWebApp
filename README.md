@@ -1,4 +1,4 @@
-[![Deploy](https://github.com/vdsbt33/react-kosmodev/actions/workflows/azure-static-web-apps-calm-smoke-0f0386810.yml/badge.svg?event=deployment)](https://github.com/vdsbt33/react-kosmodev/actions/workflows/azure-static-web-apps-calm-smoke-0f0386810.yml)
+[![Azure Static Web Apps CI/CD](https://github.com/vdsbt33/react-kosmodev/actions/workflows/azure-static-web-apps-calm-smoke-0f0386810.yml/badge.svg?branch=main)](https://github.com/vdsbt33/react-kosmodev/actions/workflows/azure-static-web-apps-calm-smoke-0f0386810.yml)
 
 #  react-kosmodev
 
