@@ -1,3 +1,7 @@
-# KosmodevWebApp
+#  react-kosmodev
 
-This project requires Node ^18.16.1 and Tailwind for NPX.
+Project for my personal website. All text is in portuguese.
+
+## Requirements:
+- Node ^18.16.1
+- Tailwind for NPX
